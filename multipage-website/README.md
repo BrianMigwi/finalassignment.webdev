@@ -108,7 +108,7 @@ Responsive, interactive, and deployed online.
 - `images/` – Images and assets
 
 ## 🚀 Deployment
-Live Website: [View Here](https://your-username.github.io/my-portfolio/)
+Live Website: [View Here]
 
 ## ✨ Features
 - Responsive design
