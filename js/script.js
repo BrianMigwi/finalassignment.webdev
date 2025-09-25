@@ -1,6 +1,12 @@
 // Dark mode toggle
 function toggleTheme() {
-  document.body.classList.toggle("dark-mode");
+  
+}
+const toggleButton = document.getElementById("dark-mode-toggle");
+if (toggleButton) {
+  toggleButton.addEventListener("click", () => {
+    document.body.classList.toggle("dark-mode");
+  });
 }
 
 // Simple form validation
