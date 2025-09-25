@@ -88,3 +88,30 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+###################################################################################################
+
+
+# My Portfolio Website 🌍
+
+A simple multipage website built with **HTML5, CSS3, and JavaScript**.  
+Responsive, interactive, and deployed online.
+
+## 📂 Project Structure
+- `index.html` – Home page
+- `about.html` – About me
+- `projects.html` – Projects/Services
+- `gallery.html` – Gallery (optional)
+- `contact.html` – Contact page
+- `css/style.css` – Styling
+- `js/script.js` – Interactivity
+- `images/` – Images and assets
+
+## 🚀 Deployment
+Live Website: [View Here](https://your-username.github.io/my-portfolio/)
+
+## ✨ Features
+- Responsive design
+- Navbar across all pages
+- Interactive JavaScript button
+- Consistent footer
